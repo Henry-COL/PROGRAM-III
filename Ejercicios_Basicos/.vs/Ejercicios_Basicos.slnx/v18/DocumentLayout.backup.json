@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henry Quintero\\Documents\\GitHub\\PROGRAM-III\\Ejercicios_Basicos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB956CA-51BF-4629-AEED-A5C63602FBA8}|Ejercicios_Basicos.csproj|c:\\users\\henry quintero\\documents\\github\\program-iii\\ejercicios_basicos\\ejercicios\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB956CA-51BF-4629-AEED-A5C63602FBA8}|Ejercicios_Basicos.csproj|solutionrelative:ejercicios\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB956CA-51BF-4629-AEED-A5C63602FBA8}|Ejercicios_Basicos.csproj|c:\\users\\henry quintero\\documents\\github\\program-iii\\ejercicios_basicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB956CA-51BF-4629-AEED-A5C63602FBA8}|Ejercicios_Basicos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\Henry Quintero\\Documents\\GitHub\\PROGRAM-III\\Ejercicios_Basicos\\Ejercicios\\Ejercicio1.cs",
+              "RelativeDocumentMoniker": "Ejercicios\\Ejercicio1.cs",
+              "ToolTip": "C:\\Users\\Henry Quintero\\Documents\\GitHub\\PROGRAM-III\\Ejercicios_Basicos\\Ejercicios\\Ejercicio1.cs",
+              "RelativeToolTip": "Ejercicios\\Ejercicio1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:02:06.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henry Quintero\\Documents\\GitHub\\PROGRAM-III\\Ejercicios_Basicos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Henry Quintero\\Documents\\GitHub\\PROGRAM-III\\Ejercicios_Basicos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:01:29.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
